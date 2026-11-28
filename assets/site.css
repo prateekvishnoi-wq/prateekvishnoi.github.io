@@ -81,6 +81,7 @@ h3 { font-size: 1.05rem; line-height: 1.4; }
 
 .inner-main { padding-top: clamp(2.15rem, 5vw, 3.25rem); }
 .inner-title { margin-block: .3rem 1.5rem; }
+.students-layout .inner-title { font-size: clamp(1.9rem, 3.6vw, 2.9rem); }
 .students-layout { display: grid; align-content: start; grid-template-columns: minmax(9rem, .7fr) minmax(0, 1.25fr); gap: 1.2rem clamp(1.5rem, 6vw, 6rem); padding-bottom: 2.5rem; }
 .student-list { border-top: 1px solid var(--line); }
 .student-list li { padding: 1.15rem 0; border-bottom: 1px solid var(--line); }
