@@ -89,7 +89,7 @@ h3 { font-size: 1.05rem; line-height: 1.4; }
 .breadcrumb { margin-bottom: 1.15rem; }
 .breadcrumb a { font-weight: 600; font-size: .95rem; }
 .course-header { border-bottom: 1px solid var(--line); padding-bottom: 1.65rem; margin-bottom: 1.75rem; }
-.course-header .inner-title { max-width: 27ch; font-size: clamp(2.6rem, 5.5vw, 4.4rem); margin-bottom: .7rem; }
+.course-header .inner-title { max-width: 40ch; font-size: clamp(1.9rem, 3.6vw, 2.9rem); margin-bottom: .7rem; }
 .course-body { display: grid; grid-template-columns: minmax(11rem, .46fr) minmax(0, 1.54fr); gap: 1.7rem clamp(1.5rem, 5vw, 5rem); align-items: start; }
 .course-aside { position: sticky; top: 1.5rem; }
 .course-aside > h2 { font: 670 1.05rem/1.4 var(--sans); letter-spacing: 0; margin-bottom: .8rem; }
